@@ -2,6 +2,7 @@ __pycache__
 fastapi_tutorial
 */alembic/versions/*
 */alembic/README
+tmp
 .vscode
 .env
 test_db.db
