@@ -11,6 +11,8 @@ FastAPI tutorial
 <br>
 [Building webapps with FastAPI and Jinja 🥷](https://www.fastapitutorial.com/blog/webapps-with-fastapi-jinja/)
 <br>
+[Task Queue with Celery x FastAPI](https://www.fastapitutorial.com/blog/task-queues-with-celery/)
+<br>
 [fastapi-blog](https://github.com/sourabhsinha396/fastapi-blog)
 
 
