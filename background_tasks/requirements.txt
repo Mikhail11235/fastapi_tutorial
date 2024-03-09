@@ -1,0 +1,7 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+redis==4.5.4
+celery==5.2.7
+python-dotenv==1.0.0
+watchdog==3.0.0
+flower==1.2.0
